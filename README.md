@@ -6,16 +6,16 @@ Local intranet creator
 Debian / Ubuntu:
 
     apt-get install git
-    git clone https://github.com/daliansuccessor/intranet.git
+    git clone https://github.com/koreansuccessor/intranet.git
 
 CentOS:
 
     yum install git
-    git clone https://github.com/daliansuccessor/intranet.git
+    git clone https://github.com/koreansuccessor/intranet.git
 
 Windows:
 
-    git clone https://github.com/daliansuccessor/intranet.git
+    git clone https://github.com/koreansuccessor/intranet.git
 
 ### Usage for single user on linux platform
 
