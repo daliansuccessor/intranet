@@ -1,12 +1,5 @@
-ShadowsocksR
+Local intranet creator
 ===========
-
-[![Build Status]][Travis CI]
-
-A fast tunnel proxy that helps you bypass firewalls.
-
-Server
-------
 
 ### Install
 
