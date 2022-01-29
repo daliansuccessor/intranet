@@ -47,20 +47,7 @@ To monitor the log:
     ./tail.sh
 
 
-Client
-------
 
-* [Windows] / [macOS]
-* [Android] / [iOS]
-* [OpenWRT]
-
-Use GUI clients on your local PC/phones. Check the README of your client
-for more information.
-
-Documentation
--------------
-
-You can find all the documentation in the [Wiki].
 
 License
 -------
@@ -79,20 +66,3 @@ WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
 License for the specific language governing permissions and limitations
 under the License.
 
-Bugs and Issues
-----------------
-
-* [Issue Tracker]
-
-
-
-[Android]:           https://github.com/shadowsocksr/shadowsocksr-android
-[Build Status]:      https://travis-ci.org/shadowsocksr/shadowsocksr.svg?branch=manyuser
-[Debian sid]:        https://packages.debian.org/unstable/python/shadowsocks
-[iOS]:               https://github.com/shadowsocks/shadowsocks-iOS/wiki/Help
-[Issue Tracker]:     https://github.com/shadowsocksr/shadowsocksr/issues?state=open
-[OpenWRT]:           https://github.com/shadowsocks/openwrt-shadowsocks
-[macOS]:             https://github.com/shadowsocksr/ShadowsocksX-NG
-[Travis CI]:         https://travis-ci.org/shadowsocksr/shadowsocksr
-[Windows]:           https://github.com/shadowsocksr/shadowsocksr-csharp
-[Wiki]:              https://github.com/breakwa11/shadowsocks-rss/wiki
